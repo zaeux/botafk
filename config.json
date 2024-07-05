@@ -1,0 +1,11 @@
+{
+    "ip": "alimccc.aternos.me",
+    "port": "53271",
+    "name": "AliBOT",
+    "auto-reconnect": "true",
+    "comment": "If True Then Bot Will Skip Night",
+    "login-enabled": "true",
+    "comment": "If True Then Bot Will Login/Register",
+    "register-cmd": "/register {password} {password}",
+    "login-cmd": "/login {password}"
+   }
